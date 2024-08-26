@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HealthAppCompose</string>
+    <string name="inversions">Inversions</string>
+    <string name="nature_meditations">Nature Meditations</string>
+    <string name="align_your_body">Align Your Body</string>
+    <string name="favorite_collections">Favorite Collections</string>
 </resources>
